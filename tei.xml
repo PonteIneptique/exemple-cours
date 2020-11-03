@@ -15,6 +15,7 @@
   </teiHeader>
   <text>
       <body>
+         <p>Un paragraphe avant</p>
          <p>Du texte</p>
       </body>
   </text>
